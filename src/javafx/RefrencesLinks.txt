@@ -1,0 +1,17 @@
+https://stackabuse.com/java-collections-the-list-interface/
+https://www.geeksforgeeks.org/comparator-interface-java/
+https://stackoverflow.com/questions/10709803/java-comparator-how-to-sort-by-integer
+https://stackoverflow.com/questions/21074402/generate-getters-and-setters-in-netbeans
+https://www.callicoder.com/java-comparable-comparator/
+https://www.geeksforgeeks.org/comparator-interface-java/
+https://stackoverflow.com/questions/39022514/sorting-strings-that-contain-integers-with-comparator
+https://stackoverflow.com/questions/8150155/java-gethours-getminutes-and-getseconds
+https://www.javatpoint.com/java-simpledateformat
+https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html
+https://coderanch.com/t/515273/java/convert-hours-minutes-seconds-seconds
+https://www.geeksforgeeks.org/list-interface-java-examples/
+https://www.programiz.com/java-programming/enhanced-for-loop
+https://stackoverflow.com/questions/13437768/adding-strings-to-an-arraylist
+https://www.quora.com/How-do-I-display-all-the-elements-in-ArrayList-in-Java-using-loop
+https://www.geeksforgeeks.org/counting-number-lines-words-characters-paragraphs-text-file-using-java/
+https://courses.cs.washington.edu/courses/cse341/98au/java/jdk1.2beta4/docs/api/java/util/Collections.html
